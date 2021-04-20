@@ -1,0 +1,1 @@
+Modified Ardruino examples for a quick Test. Just open in Ardruino IDE and compile/upload
